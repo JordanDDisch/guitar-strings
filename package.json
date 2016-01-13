@@ -9,6 +9,7 @@
   "author": "Your Name",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^3.9.0",
     "gulp-shopify-upload": "^2.0.0",
     "gulp-watch": "^4.3.5"
   }
